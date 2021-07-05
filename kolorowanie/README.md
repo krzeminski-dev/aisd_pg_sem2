@@ -2,7 +2,7 @@
 
 _#grafy_
 
-## Treść
+## Opis
 
 Pokolorowanie wierzchołków w grafie jest legalne, jeśli dwa połączone wierzchołki mają inne kolory.
 Najmniejsza liczba kolorów potrzebnych do legalnego pokolorowania to liczba chromatyczna. Należy sprawdzić,
