@@ -45,7 +45,7 @@ void SolveTest(Test *test)
     First = nullptr;
     Killer = nullptr;
 
-    //creating a reverse list
+    //creating a reversed list
 
     Node *NewNode = new Node;
     NewNode->Id = 1;
