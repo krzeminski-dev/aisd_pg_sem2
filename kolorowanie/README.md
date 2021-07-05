@@ -4,10 +4,9 @@ _#grafy_
 
 ## Treść
 
-Pokolorowanie wierzchołków grafu nazywamy legalnym, jeśli dwa jego połączone wierzchołki mają różny kolor.
-Najmniejsza liczba kolorów (mogą być wszystkie odcienie różowego) potrzebnych do (legalnego) pokolorowania grafu to liczba chromatyczna tego grafu.
-Stopień wierzchołka jest to liczba wychodzących z niego krawędzi.
-Sprawdź czy liczba chromatyczna grafu jest większa niż jego największy stopień. Możesz użyć dowolnego algorytmu również własnego (dla kolorowania).
+Pokolorowanie wierzchołków w grafie jest legalne, jeśli dwa połączone wierzchołki mają inne kolory.
+Najmniejsza liczba kolorów potrzebnych do legalnego pokolorowania to liczba chromatyczna. Należy sprawdzić,
+czy liczba chromatyczna grafu jest większa niż jego największy stopień.
 
 ### Przykład:
 
